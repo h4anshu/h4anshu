@@ -1,10 +1,10 @@
-## Hi there 👋
+👋 Hi! I'm a B.Tech CSE student passionate about transforming raw data into meaningful insights.  
 
-I'm currently pursuing B.Tech in Computer Science with a focus on Data Analytics & Machine Learning.  
-I enjoy working with data — cleaning, analyzing, and turning it into dashboards & insights.  
+🔍 I love analyzing datasets, building dashboards, and applying ML techniques to uncover trends and patterns.  
 
-**Tech Stack:**  
+**💻 Tech Stack:**  
 - Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Data Tools: SQL, Power BI, Excel  
-- Interests: Data Visualization, Predictive Analytics, ML Models
 
+📈 Interests: Data Visualization, Analytics, Machine Learning  
+🌱 Currently learning: Data Analytics & Machine Learning
